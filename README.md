@@ -1,5 +1,8 @@
-<img align="center">![Header](/Source/pybp.png)</img>
+<p align="center">
+<img src="Source/pybp.png">
 <p align="center">This repository for beginners who are still learning python.</p>
+</p>
+
 ---
 
 <h2>Projects</h2>
